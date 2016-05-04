@@ -12,6 +12,8 @@ package mynewgitproject;
 public class Mynewgitproject {
 String input;
 String output;
+String dfgfdg;
+String dskjl;
     /**
      * @param args the command line arguments
      */
