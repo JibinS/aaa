@@ -10,7 +10,8 @@ package mynewgitproject;
  * @author Administrator
  */
 public class Mynewgitproject {
-
+String input;
+String output;
     /**
      * @param args the command line arguments
      */
